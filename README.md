@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/bryan-alexis-martínez-alvarado-6225a8233/)"><img src="https://img.shields.io/badge/-Bryan%20Alexis%20Martínez%20Alvarado-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bryan-alexis-martínez-alvarado-6225a8233/"><img src="https://img.shields.io/badge/-Bryan%20Alexis%20Martínez%20Alvarado-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:b.alexis.mtz.a@gmail.com"><img src="https://img.shields.io/badge/-b.alexis.mtz.a@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
